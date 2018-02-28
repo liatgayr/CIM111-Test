@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+
+<head>
+  <title>Liat Gayr Resume</title>
+  <meta charset="utf-8" />
+  <meta name="author" content="Rori K." />
+  <meta name="keywords" content="basic website" />
+</head>
+
+<body>
+  <header>
+    <h1>
+  Liat Gayr
+</h1>
+  </header>
+
+  <main>
+    <img src="imgs/rori.jpg" alt="photo of Rori Kotch" width="320" />
+    <p>Liat Gayr is an undergraduate student from New York studying at the University of Miami. She is majoring in communication studies and minoring in public relations and interactive media. In her free time, she enjoys listening to music, going to the gym, hanging out with friends, and watching Netflix.</p>
+
+    <h3>Work Experience</h3>
+    <h4>Camp Counselor<h4>
+    <ul>
+      <li>Supervises kids</li>
+      <li>Prepares daily activities</li>
+      <li>Makes calendar with events for campers</li>
+    </ul>
+
+    <h3>Interests</h3>
+    <ul>
+      <li>Photography</li>
+      <li>Music</li>
+      <li>Traveling</li>
+      <li>Cooking</li>
+    </ul>
+
+  </main>
+
+  <br>
+
+  <footer>
+    <h3>Contact Information</h3>
+    <ul>
+      <li>Email: ljg90@miami.edu</li>
+    </ul>
+    <address>
+  1209 Dickinson Drive
+  Coral Gables, FL 33146
+</address>
+  </footer>
+
+
+</body>
+
+</html>
